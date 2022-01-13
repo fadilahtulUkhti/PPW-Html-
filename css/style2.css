@@ -1,0 +1,18 @@
+h1{
+    
+    font-size: 200px;
+}
+/*img{background-color: dimgray;
+} */
+.buah{
+    background-color: cornflowerblue;
+}
+.Minuman{
+    background-color: brown;
+}
+#heading{
+    color: darkred;
+}
+.circular{
+    border-radius: 100%;
+}
